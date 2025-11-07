@@ -1,7 +1,7 @@
 # Hi, I'm Jérémy Munsch 👋
 
-<a href="https://www.linkedin.com/in/jeremy-munsch/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://jeremydev.ovh" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/jeremy-munsch/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIAoJIHZpZXdCb3g9IjAgMCAzMTAgMzEwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGcgaWQ9IlhNTElEXzgwMV8iPgoJPHBhdGggaWQ9IlhNTElEXzgwMl8iIGQ9Ik03Mi4xNiw5OS43M0g5LjkyN2MtMi43NjIsMC01LDIuMjM5LTUsNXYxOTkuOTI4YzAsMi43NjIsMi4yMzgsNSw1LDVINzIuMTZjMi43NjIsMCw1LTIuMjM4LDUtNVYxMDQuNzMKCQlDNzcuMTYsMTAxLjk2OSw3NC45MjIsOTkuNzMsNzIuMTYsOTkuNzN6Ii8+Cgk8cGF0aCBpZD0iWE1MSURfODAzXyIgZD0iTTQxLjA2NiwwLjM0MUMxOC40MjIsMC4zNDEsMCwxOC43NDMsMCw0MS4zNjJDMCw2My45OTEsMTguNDIyLDgyLjQsNDEuMDY2LDgyLjQKCQljMjIuNjI2LDAsNDEuMDMzLTE4LjQxLDQxLjAzMy00MS4wMzhDODIuMSwxOC43NDMsNjMuNjkyLDAuMzQxLDQxLjA2NiwwLjM0MXoiLz4KCTxwYXRoIGlkPSJYTUxJRF84MDRfIiBkPSJNMjMwLjQ1NCw5NC43NjFjLTI0Ljk5NSwwLTQzLjQ3MiwxMC43NDUtNTQuNjc5LDIyLjk1NFYxMDQuNzNjMC0yLjc2MS0yLjIzOC01LTUtNWgtNTkuNTk5CgkJYy0yLjc2MiwwLTUsMi4yMzktNSw1djE5OS45MjhjMCwyLjc2MiwyLjIzOCw1LDUsNWg2Mi4wOTdjMi43NjIsMCw1LTIuMjM4LDUtNXYtOTguOTE4YzAtMzMuMzMzLDkuMDU0LTQ2LjMxOSwzMi4yOS00Ni4zMTkKCQljMjUuMzA2LDAsMjcuMzE3LDIwLjgxOCwyNy4zMTcsNDguMDM0djk3LjIwNGMwLDIuNzYyLDIuMjM4LDUsNSw1SDMwNWMyLjc2MiwwLDUtMi4yMzgsNS01VjE5NC45OTUKCQlDMzEwLDE0NS40MywzMDAuNTQ5LDk0Ljc2MSwyMzAuNDU0LDk0Ljc2MXoiLz4KPC9nPgo8L3N2Zz4=&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://jeremydev.ovh" target="_blank"><img src="https://img.shields.io/badge/Portfolio-164E54?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNSAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGQ9Ik01LjUgMTYuNUgxOS41TTUuNSA4LjVIMTkuNU00LjUgMTIuNUgyMC41TTEyLjUgMjAuNUMxMi41IDIwLjUgOCAxOC41IDggMTIuNUM4IDYuNSAxMi41IDQuNSAxMi41IDQuNU0xMi41IDQuNUMxMi41IDQuNSAxNyA2LjUgMTcgMTIuNUMxNyAxOC41IDEyLjUgMjAuNSAxMi41IDIwLjVNMTIuNSA0LjVWMjAuNU0yMC41IDEyLjVDMjAuNSAxNi45MTgzIDE2LjkxODMgMjAuNSAxMi41IDIwLjVDOC4wODE3MiAyMC41IDQuNSAxNi45MTgzIDQuNSAxMi41QzQuNSA4LjA4MTcyIDguMDgxNzIgNC41IDEyLjUgNC41QzE2LjkxODMgNC41IDIwLjUgOC4wODE3MiAyMC41IDEyLjVaIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS4yIi8+DQo8L3N2Zz4=&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:github@jeremydev.ovh"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
@@ -23,7 +23,7 @@ I am currently looking for a Fullstack Java Developer position in the Le Mans ar
     <td valign="top" width="50%">
       <strong>Backend</strong>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -41,17 +41,17 @@ I am currently looking for a Fullstack Java Developer position in the Le Mans ar
       <strong>Frontend</strong>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
+        <img src="https://img.shields.io/badge/Svelte-FF3366?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
       </p>
       <strong>Tools & Methodologies</strong>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+        <img src="https://img.shields.io/badge/GNU/Linux-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
         <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD"/>
-        <img src="https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=draw.io&logoColor=white" alt="UML"/>
+        <img src="https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=uml&logoColor=white" alt="UML"/>
+        <img src="https://img.shields.io/badge/MERISE-105F5F?style=for-the-badge&logoColor=white" alt="Merise"/>
       </p>
     </td>
   </tr>
