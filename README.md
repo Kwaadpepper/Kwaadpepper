@@ -23,35 +23,35 @@ I am currently looking for a Fullstack Java Developer position in the Le Mans ar
     <td valign="top" width="50%">
       <strong>Backend</strong>
       <p>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+        <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+        <a href="https://quarkus.io" target="_blank"><img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/></a>
+        <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+        <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+        <a href="https://ktor.io" target="_blank"><img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor"/></a>
+        <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+        <a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
       </p>
       <strong>Databases</strong>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+        <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+        <a href="https://mariadb.org" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
       </p>
     </td>
     <td valign="top" width="50%">
       <strong>Frontend</strong>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Svelte-FF3366?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-        <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+        <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+        <a href="https://svelte.dev" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3366?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/></a>
+        <a href="https://angular.dev" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
+        <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
       </p>
       <strong>Tools & Methodologies</strong>
       <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GNU/Linux-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-        <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD"/>
-        <img src="https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=uml&logoColor=white" alt="UML"/>
-        <img src="https://img.shields.io/badge/MERISE-105F5F?style=for-the-badge&logoColor=white" alt="Merise"/>
+        <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+        <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/GNU/Linux-222222?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
+        <a href="https://fr.wikipedia.org/wiki/CI/CD" target="_blank"><img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD"/></a>
+        <a href="https://www.omg.org/uml" target="_blank"><img src="https://img.shields.io/badge/UML-222222?style=for-the-badge&logo=uml&logoColor=white" alt="UML"/></a>
+        <a href="https://fr.wikipedia.org/wiki/Merise_(informatique)" target="_blank"><img src="https://img.shields.io/badge/MERISE-105F5F?style=for-the-badge&logoColor=white" alt="Merise"/></a>
       </p>
     </td>
   </tr>
